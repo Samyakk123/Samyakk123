@@ -5,8 +5,11 @@
 
 
 # Languages
-<p align="center">
-  <img align="center" alt="Samyakk123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk123&langs_count=6&layout=compact&theme=dark"/>
+
+<img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
+
+<p align="left">
+  <img alt="Samyakk123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk123&langs_count=6&layout=compact&theme=dark"/>
 </p>
 
 <!--
