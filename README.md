@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#contact me 
+
+
+<img align="middle" alt="Samyakk123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk123&langs_count=6&layout=compact&theme=dark"/>
+
+
 <!--
 **Samyakk123/Samyakk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
