@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 # contact me :computer:
+Feel free to contact me on any of the platforms below! 
+
+:microphone: My personal [Website]!    
 
 
 
@@ -26,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://samyakmehta.me/
