@@ -1,9 +1,26 @@
-### Hi there 👋
+### Hello, 👋
+
+My names Samyak 
 
 # contact me :computer:
 Feel free to contact me on any of the platforms below! 
 
-:microphone: My personal [Website]!    
+<!-- <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="Samyakk123"> --> 
+
+<a href="https://www.linkedin.com/in/samyak-mehta2/">
+<img align="left" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+</a>
+
+
+<!-- Fix this one tmrw -->
+<a href="mailto:samyakmehta@mail.utoronto.ca">
+  <img align="left" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+</a>
+
+<a href="https://www.facebook.com/samyak.mt/">
+  <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
+
+</a>
 
 
 
@@ -30,4 +47,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://samyakmehta.me/
+[1]: https://samyakmehta.me/
+[2]: https://www.linkedin.com/in/samyak-mehta2/
+[3]: https://www.facebook.com/samyak.mt/
