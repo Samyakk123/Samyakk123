@@ -3,29 +3,21 @@
 My names Samyak 
 
 # contact me :computer:
-Feel free to contact me on any of the platforms below! 
-
 <!-- <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="Samyakk123"> --> 
-
 <a href="https://www.linkedin.com/in/samyak-mehta2/">
 <img align="left" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 </a>
-
-
 <!-- Fix this one tmrw -->
 <a href="mailto:samyakmehta@mail.utoronto.ca">
   <img align="left" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 </a>
-
 <a href="https://www.facebook.com/samyak.mt/">
   <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
-
 </a>
 
 
 
 # Languages
-
 <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 
 <p align="left">
