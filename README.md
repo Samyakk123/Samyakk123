@@ -20,7 +20,12 @@ My names Samyak
 
 <!-- <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="Samyakk123"> --> 
 
-## Languages
+<div/>
+<div/>
+<div/>
+
+
+# Languages
 <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 
 <p align="left">
