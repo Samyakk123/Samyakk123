@@ -1,12 +1,15 @@
-### Hello, 👋
+# About me
 
-My names Samyak 
+Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto! 
 
 # Languages
 <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 
 <p align="left">
+  <div>Hereherherherere</div>
   <img alt="Samyakk123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk123&langs_count=6&layout=compact&theme=dark"/>
+  <div align="right">Something here</div>
+
 </p>
 
 # contact me :computer:
