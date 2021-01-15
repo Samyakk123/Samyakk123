@@ -15,17 +15,10 @@ My names Samyak
 </a>
 
 <a href="https://samyakmehta.me/">
-  <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
+  <img align="left" alt="Samyak facebook" width="60px" height="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
 
 
-<!-- <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="Samyakk123"> --> 
-
-<div/>
-<div/>
-<div/>
-
-
-# Languages
+# contact me :computer:
 <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 
 <p align="left">
