@@ -16,9 +16,9 @@ My names Samyak
 
 <a href="https://samyakmehta.me/">
   <img align="left" alt="Samyak facebook" width="60px" height="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
+</a>
 
-
-# contact me :computer:
+# Languages
 <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 
 <p align="left">
