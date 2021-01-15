@@ -14,6 +14,10 @@ My names Samyak
   <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
 </a>
 
+<a href="https://samyakmehta.me/">
+  <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
+
+
 <!-- <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="Samyakk123"> --> 
 
 ## Languages
@@ -41,3 +45,4 @@ Here are some ideas to get you started:
 [1]: https://samyakmehta.me/
 [2]: https://www.linkedin.com/in/samyak-mehta2/
 [3]: https://www.facebook.com/samyak.mt/
+[4]: https://samyakmehta.me/
