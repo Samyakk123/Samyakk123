@@ -1,8 +1,15 @@
 # About me
 
-<p style="text-align:center">
-  Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto! 
+
+<p align="center">
+  Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto!
+  <br/>
+  <br/>
+
+  <img src="https://i.gifer.com/NvL.gif" width="40" height="40">
 </p>
+
+
 <p align="center">
   <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 </p>
@@ -14,17 +21,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samyak-mehta2/">
-  <img align="left" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+  <img style="margin:10px" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
   </a>
+
   <!-- Fix this one tmrw -->
   <a href="mailto:samyakmehta@mail.utoronto.ca">
-    <img align="left" alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
+    <img alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
   <a href="https://www.facebook.com/samyak.mt/">
-    <img align="left" alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
+    <img alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
   </a>
 
   <a href="https://samyakmehta.me/">
-    <img align="left" alt="Samyak facebook" width="60px" height="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
+    <img alt="Samyak facebook" width="60px" height="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
   </a>
 </p>
