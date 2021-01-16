@@ -33,6 +33,6 @@
   </a>
 
   <a href="https://samyakmehta.me/">
-    <img alt="Samyak facebook" width="60px" height="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
+    <img align="centre" alt="Samyak facebook" width="70px" height="70px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
   </a>
 </p>
