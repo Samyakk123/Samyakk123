@@ -1,7 +1,8 @@
 # About me
 
-Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto! 
-
+<p style="text-align:center">
+  Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto! 
+</p>
 <p align="center">
   <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 </p>
