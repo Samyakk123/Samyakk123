@@ -6,7 +6,7 @@
   <br/>
   <br/>
 
-  <img src="https://i.gifer.com/NvL.gif" width="40" height="40">
+  <img src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/NvL.gif" >
 </p>
 
 
