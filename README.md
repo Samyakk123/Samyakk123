@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Hi, my name is Samyak Mehta, I'm a second year student at the University Of Toronto!
+  Hi, my name is Samyak Mehta, I'm a third year student at the University Of Toronto!
   <br/>
   <br/>
 
