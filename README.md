@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Hi, my name is Samyak Mehta, I'm a third year student at the University Of Toronto!
+  Hi, my name is Samyak Mehta, I'm a graduate from the University of Toronto, in the Computer Science - Specialist in Software Engineering stream!
   <br/>
   <br/>
 
