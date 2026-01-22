@@ -28,9 +28,6 @@
   <a href="mailto:samyakmehta@mail.utoronto.ca">
     <img alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
-  <a href="https://www.facebook.com/samyak.mt/">
-    <img alt="Samyak facebook" width="60px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" style="max-width:100%;">
-  </a>
 
   <a href="https://samyakmehta.me/">
     <img align="centre" alt="Samyak facebook" width="70px" height="70px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/website.png" style="max-width:100%;">
