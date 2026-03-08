@@ -14,7 +14,7 @@
   <img align="center" alt="Samyakk123" src="https://komarev.com/ghpvc/?username=Samyakk123"/>
 </p>
 <p align="center">
-  <img alt="Samyakk123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyakk123&langs_count=6&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samyakk123&layout=compact&theme=dark" />
 
 
 </p>
