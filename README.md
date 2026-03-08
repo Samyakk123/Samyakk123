@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samyak-mehta2/">
-  <img style="margin:10px" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/samyak-m/">
+  <img alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/Samyakk123/Samyakk123/main/icons/mail.png">
   </a>
 
   <!-- Fix this one tmrw -->
-  <a href="mailto:samyakmehta@mail.utoronto.ca">
-    <img alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
+  <a href="mailto:samyak.mt@gmail.com">
+    <img alt="Samyak Mail" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
 
   <a href="https://samyakmehta.me/">
